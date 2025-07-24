@@ -1,4 +1,4 @@
-num = int(input("Enter a number for which you want a Factorial: "))
+num = int(input("Enter a number for which you want a Factorial: "))   # Taking input from user
 
 factorial = 1                   # To track the value and multiplying with 1 does'nt effect the result
 
